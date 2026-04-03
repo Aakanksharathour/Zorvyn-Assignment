@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth UI transitions across the dashboard. */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
